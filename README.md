@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @xKow
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on nothing right now
+- 📫 xkow#7242
