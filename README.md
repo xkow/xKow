@@ -1,3 +1,2 @@
-- 👋 Hi, I’m @xKow
-- 🌱 I’m currently learning JavaScript!
 - 📫 xkow#7242
+just chillin
