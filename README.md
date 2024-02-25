@@ -36,5 +36,5 @@ PHP             6 mins          ▓░░░░░░░░░░░░░░░
 #### LAST FM STATS
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xkow&normal_stats)
 
-#### GITHUB FM STATS
+#### GITHUB STATS
 ![xkow's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkow&theme=radical)
