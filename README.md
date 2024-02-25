@@ -22,4 +22,4 @@
 
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xkow)
 
-![xkow's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkow&theme=radical)]
+![xkow's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkow&theme=radical)
