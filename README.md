@@ -23,6 +23,15 @@
 #### WAKA STATS 
 <br >
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript      1 hr 20 mins    █████████▓░░░░░░░░░░░░░░░   38.71 %
+HTML            1 hr 19 mins    █████████▓░░░░░░░░░░░░░░░   38.58 %
+Python          19 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+CSS             17 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 %
+PHP             6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.24 %
+```
+
 <!--END_SECTION:waka-->
 
 #### WAKA STATS 
