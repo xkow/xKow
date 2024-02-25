@@ -32,9 +32,9 @@ PHP             6 mins          ▓░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
-<br >
+
 #### LAST FM STATS
 ![My scrobbles](https://lastfm-recently-played.vercel.app/api?user=xkow&normal_stats)
-<br >
+
 #### GITHUB FM STATS
 ![xkow's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkow&theme=radical)
