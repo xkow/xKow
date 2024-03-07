@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xkow&label=Profile%20views&color=0e75b6&style=flat" alt="xkow" /> </p>
 
-- 🔭 I’m currently working on [xkow.xyz](https://xkow.xyz/) and another secret project ;)
+- 🔭 I’m currently working on [xkow.xyz](https://xkow.xyz/) and a couple other projects
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and Python**
 
