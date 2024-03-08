@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is xkow and I'm a dveloper from Denmark!</h2>
+<h2 align="left">Hi 👋! My name is xkow and I'm a developer from Denmark!</h2>
 
 ###
 
